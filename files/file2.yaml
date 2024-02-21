@@ -1,0 +1,13 @@
+users:
+  - id: 1
+    name: John Doe
+    email: johndoe@example.com
+  - id: 2
+    name: Jane Smith
+    email: janesmith@example.com
+  - id: 3
+    name: James Johnson
+    email: jamesjohnson@example.com
+  - id: 4
+    name: Emily Davis
+    email: emilydavis@example.com

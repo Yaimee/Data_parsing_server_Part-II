@@ -1,0 +1,16 @@
+users:
+- email: alicebrown@example.com
+  name: Alice Brown
+  user_id: 1
+- email: bobsmith@example.com
+  name: Bob Smith
+  user_id: 2
+- email: caroljones@example.com
+  name: Carol Jones
+  user_id: 3
+- email: davewilson@example.com
+  name: Dave Wilson
+  user_id: 4
+- email: evejohnson@example.com
+  name: Eve Johnson
+  user_id: 5

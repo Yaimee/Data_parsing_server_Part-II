@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<users>
+    <user>
+        <user_id>1</user_id>
+        <name>Alice Brown</name>
+        <email>alicebrown@example.com</email>
+    </user>
+    <user>
+        <user_id>2</user_id>
+        <name>Bob Smith</name>
+        <email>bobsmith@example.com</email>
+    </user>
+    <user>
+        <user_id>3</user_id>
+        <name>Carol Jones</name>
+        <email>caroljones@example.com</email>
+    </user>
+    <user>
+        <user_id>4</user_id>
+        <name>Dave Wilson</name>
+        <email>davewilson@example.com</email>
+    </user>
+    <user>
+        <user_id>5</user_id>
+        <name>Eve Johnson</name>
+        <email>evejohnson@example.com</email>
+    </user>
+</users>
